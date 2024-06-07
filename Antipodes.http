@@ -1,0 +1,6 @@
+@Antipodes_HostAddress = http://localhost:5040
+
+GET {{Antipodes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
